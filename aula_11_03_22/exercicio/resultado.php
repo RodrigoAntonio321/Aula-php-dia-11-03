@@ -8,8 +8,14 @@
     <title>Resultado</title>
 
     <style>
+     h1{
+         color:blue;
+
+     }
+  
         p{
         color:red;
+
         }
 
 
@@ -19,7 +25,7 @@
 </head>
 <body>
 
-
+<h1>Este é o site que apresenta a média</h1>
 
 
 <?php
